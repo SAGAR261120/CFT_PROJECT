@@ -1,0 +1,26 @@
+{
+  "id": "root",
+  "name": "Root",
+  "type": "folder",
+  "children": [
+    {
+      "id": "folder1",
+      "name": "Documents",
+      "type": "folder",
+      "children": [
+        {
+          "id": "file1",
+          "name": "Resume.txt",
+          "type": "file",
+          "content": "This is my resume."
+        }
+      ]
+    },
+    {
+      "id": "file2",
+      "name": "Readme.md",
+      "type": "file",
+      "content": "Welcome to the File Explorer"
+    }
+  ]
+}
