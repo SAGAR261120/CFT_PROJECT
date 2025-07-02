@@ -1,6 +1,6 @@
 # 🗂 React File Explorer
 
-This is a simple File Explorer built using **React.js**. It allows users to navigate through folders, view files, and (optionally) perform basic file operations like creating folders/files.
+This is a simple File Explorer built using **React.js**. It allows users to navigate through folders, view files, and perform basic file operations like creating folders/files.
 
 ---
 
