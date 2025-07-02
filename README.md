@@ -1,12 +1,33 @@
-# React + Vite
+# 🗂 React File Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple File Explorer built using **React.js**. It allows users to navigate through folders, view files, and (optionally) perform basic file operations like creating folders/files.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Expand/collapse folders.
+- Highlight selected file/folder.
+- (Optional) Add folder/file functionality.
+- Clean and responsive UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+- React.js
+- Redux (for state management)
+- React DnD for drag-and-drop -- Not working
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/SAGAR261120/CFT_PROJECT.git
+cd CFT_PROJECT
+npm install
+npm run dev
+
